@@ -1,12 +1,10 @@
-# APCS Final Project
 ## Group Info
 Anna Shrestha
 
 Maya Wassercug
 
-Period 9
-
 group name: A(++++) Group
+*This projects requires the usage of Processing, which is Java-based*
 
 ## Overview
 8 Ball pool is a game played with a total of sixteen balls (one of which is the cue ball, the only ball that can be hit by players) and six holes (known as pockets) on a rectangular table. During the game, two players take turns hitting the cue ball with a stick (the cue). The aim of both players is to sink all of their balls (either striped or solid) into a hole, by utilizing the collisions between the balls. The black 8 ball should be pocketed last, or else the game is lost. In order to create an accurate simulation, our game takes into account friction between the balls and the table and collisions between the balls using conservation of momentum and energy (collisions are assumed to be perfectly elastic). Players can control the direction and shot strength of the cue ball.
